@@ -1,0 +1,4 @@
+asyncio
+selenium
+selenium-driverless
+pydantic
